@@ -37,7 +37,6 @@ public class Program
                     Console.WriteLine("Resposta invalida, tente novamente: Aperte (ENTER)");
                     break;
             }
-
             Console.ReadKey();
         }
     }
