@@ -1,0 +1,15 @@
+E:\Projetos\StudyingEnglish\StudyingEnglish\bin\Debug\net6.0\StudyingEnglish.exe
+E:\Projetos\StudyingEnglish\StudyingEnglish\bin\Debug\net6.0\StudyingEnglish.deps.json
+E:\Projetos\StudyingEnglish\StudyingEnglish\bin\Debug\net6.0\StudyingEnglish.runtimeconfig.json
+E:\Projetos\StudyingEnglish\StudyingEnglish\bin\Debug\net6.0\StudyingEnglish.dll
+E:\Projetos\StudyingEnglish\StudyingEnglish\bin\Debug\net6.0\StudyingEnglish.pdb
+E:\Projetos\StudyingEnglish\StudyingEnglish\obj\Debug\net6.0\StudyingEnglish.csproj.AssemblyReference.cache
+E:\Projetos\StudyingEnglish\StudyingEnglish\obj\Debug\net6.0\StudyingEnglish.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\StudyingEnglish\StudyingEnglish\obj\Debug\net6.0\StudyingEnglish.AssemblyInfoInputs.cache
+E:\Projetos\StudyingEnglish\StudyingEnglish\obj\Debug\net6.0\StudyingEnglish.AssemblyInfo.cs
+E:\Projetos\StudyingEnglish\StudyingEnglish\obj\Debug\net6.0\StudyingEnglish.csproj.CoreCompileInputs.cache
+E:\Projetos\StudyingEnglish\StudyingEnglish\obj\Debug\net6.0\StudyingEnglish.dll
+E:\Projetos\StudyingEnglish\StudyingEnglish\obj\Debug\net6.0\refint\StudyingEnglish.dll
+E:\Projetos\StudyingEnglish\StudyingEnglish\obj\Debug\net6.0\StudyingEnglish.pdb
+E:\Projetos\StudyingEnglish\StudyingEnglish\obj\Debug\net6.0\StudyingEnglish.genruntimeconfig.cache
+E:\Projetos\StudyingEnglish\StudyingEnglish\obj\Debug\net6.0\ref\StudyingEnglish.dll
